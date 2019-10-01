@@ -6,5 +6,5 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/
  Original patch by: sterlingcrispin.com
  
  
- **Dependencies: jit.freenect.grab (osx)
+ **Dependencies: jit.freenect.grab (osx)<br>
  https://jmpelletier.com/freenect/
