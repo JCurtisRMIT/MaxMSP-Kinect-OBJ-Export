@@ -4,3 +4,7 @@ unless specified otherwise
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 
  sterlingcrispin.com
+ 
+ 
+ Dependencies: jit.freenect.grab (osx)
+ https://jmpelletier.com/freenect/
